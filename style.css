@@ -1,0 +1,39 @@
+.rectangle{
+    width: 1024px;
+    height: 155px;
+    /* background-color: black; */
+}
+.peach a{
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.274);
+    margin-top: 100px;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  
+}
+.david{
+    width: 1024px;
+    height: 400px;
+    /* background-color: brown; */
+    font-size: 25px;
+}
+.rolly{
+    width: 1024px;
+    height: 500px;
+    margin-top: 40px;
+    /* background-color: yellow; */
+}
+.tea{
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.205);
+    color: white;
+}
+body{
+    background-image: url(background.jpg);
+}
+nav{
+    padding: 10px;
+}
